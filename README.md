@@ -34,7 +34,7 @@ Here are some of the projects I've worked on:
 1. **tshirt_database**
    - **Description:** Talk to database using generative AI .
    - **Technologies:** Python, Mysql, Langchain framework, Google Palm API, Google Generative AI Embeddings, Chromadb vectordatabase
-   - **Repository:** https://github.com/Subhajit-257m/Langchain/tree/main/tshirt_database(#)
+   - **Repository:** https://github.com/Subhajit-257m/Langchain/tree/main/tshirt_database (#)
 
 ---
 
