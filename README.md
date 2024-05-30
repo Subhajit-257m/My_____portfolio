@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
 1. **Sqldb_tshirt**
    - **Description:** Talk to database using generative AI .
-   - **Technologies:** Python, Mysql, Langchain, LLM, Google Palm API 
+   - **Technologies:** Python, Mysql, Langchain framework, Google Palm API, Google Generative AI Embeddings, Chromadb vectordatabase, 
    - **Repository:** [Link to Repository](#)
 
 ---
