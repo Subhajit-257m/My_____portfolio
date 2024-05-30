@@ -1,5 +1,3 @@
-# My_Portfolio
-Analytics Portfolio
 
 ### Hi there! 👋 I'm Subhajit
 
