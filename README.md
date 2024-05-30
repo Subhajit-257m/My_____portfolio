@@ -31,10 +31,10 @@ Welcome to my GitHub profile! I am a passionate Data Analyst with a keen interes
 
 Here are some of the projects I've worked on:
 
-1. **Sqldb_tshirt**
+1. **tshirt_database**
    - **Description:** Talk to database using generative AI .
    - **Technologies:** Python, Mysql, Langchain framework, Google Palm API, Google Generative AI Embeddings, Chromadb vectordatabase
-   - **Repository:** [Link to Repository](#)
+   - **Repository:** https://github.com/Subhajit-257m/Langchain/tree/main/tshirt_database(#)
 
 ---
 
